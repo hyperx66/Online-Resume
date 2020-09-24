@@ -10255,6 +10255,10 @@ section.resume-section .resume-section-content {
     background-image: linear-gradient(to bottom right, #48c6ef, #6f86d6);
 }
 
+.bg-ualberta {
+    background-image: linear-gradient(to bottom right, #56ab2f, #a8e063);
+}
+
 @media (min-width: 768px) {
     section.resume-section {
         min-height: 100vh;
