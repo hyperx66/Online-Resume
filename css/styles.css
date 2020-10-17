@@ -589,8 +589,13 @@ pre code {
     margin-left: auto;
 }
 
+.certCard {
+    transition: all .2s ease-in-out;
+}
+
 .certCard:hover {
     text-decoration: none;
+    transform: scale(1.05);
 }
 
 .bg-testDome {
