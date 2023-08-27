@@ -602,6 +602,10 @@ pre code {
     background-image: linear-gradient(to bottom right, #B78628, #FCC201);
 }
 
+.bg-testDomeSilver {
+    background-image: linear-gradient(to bottom right, #274060, #FFFFFF);
+}
+
 @media (min-width: 576px) {
     .container {
         max-width: 540px;
